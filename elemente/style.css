@@ -1,1 +1,17 @@
+div{
+    background-color: red;
+    display:block
+}
+a{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    display:inline;
+}
+span{color: aqua;
+    display: block;}
 
+    img{
+        width: 300px;
+        display: inline;
+    }
